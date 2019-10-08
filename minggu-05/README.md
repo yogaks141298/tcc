@@ -6,7 +6,7 @@ TEKNOLOGI CLOUD COMPUTING
 ## install cockroachDB
 1. Install Docker for Windows.
 
-        Docker for Windows requires 64bit Windows 10 Pro and Microsoft Hyper-V. Please see the official documentation for more details. Note that if your system does not satisfy the stated requirements, you can try using Docker Toolbox.
+    Docker for Windows requires 64bit Windows 10 Pro and Microsoft Hyper-V. Please see the official documentation for more details. Note that if your system does not satisfy the stated requirements, you can try using Docker Toolbox.
 Open PowerShell and confirm that the Docker daemon is running in the background:
 
 
