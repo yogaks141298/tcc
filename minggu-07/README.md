@@ -4,7 +4,7 @@ Yoga Kurnia Subekti
 
 ## ZEIT
 1. Login ZEIT
-![2](image/2.png)  
+![2](image/2.jpg)  
 2. Install Now CLI
 ![3](image/3.png)  
    Login
