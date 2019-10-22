@@ -7,10 +7,10 @@ TI-9
 ![1](image/1.png)
   
 2. Finding Running Containers  
-![2](image/2.png)
+![2](image/2.PNG)
 
 3. Accessing Redis
-![3](image/3.png)
+![3](image/3.PNG)
 
 4. Accessing Redis
 After experimenting, Jane discovers that just using the option -p 6379 enables her to expose Redis but on a randomly available port. She decides to test her theory using 
@@ -33,7 +33,7 @@ Using the Docker Hub documentation for Redis, Jane has investigated that the off
 The command "docker run ubuntu ps" launches an Ubuntu container and executes the command ps to view all the processes running in a container.
 
 Using "docker run -it ubuntu bash" allows Jane to get access to a bash shell inside of a container.  
-![6.1](image/6.1.png)
+![6](image/6.png)
   
 ## Nginx 
 1.  Create Dockerfile  
